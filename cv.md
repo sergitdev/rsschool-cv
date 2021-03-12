@@ -5,13 +5,13 @@ title: Serhii Rybalchenko's CV
 
 # Serhii Rybalchenko
 Junior Frontend Developer
-----------------------------
-Location:	Kharkiv, Ukraine
-Tel. mobile:	+38-066-831-01-28
-Viber:	 +38-066-831-01-28
-Telegram:  +38-066-831-01-28
-E-mail:	itrjnextysq@gmail.com
-Skype:	Serg SVR 
+***
+Location:	Kharkiv, Ukraine  
+Tel. mobile:	+38-066-831-01-28  
+Viber:	 +38-066-831-01-28  
+Telegram:  +38-066-831-01-28  
+E-mail:	itrjnextysq@gmail.com  
+Skype:	Serg SVR   
 ----------------------------
 
 ## Education
