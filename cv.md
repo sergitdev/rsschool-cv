@@ -12,7 +12,7 @@ Tel. mobile:	+38-066-831-01-28
 Viber:	 +38-066-831-01-28  
 Telegram:  +38-066-831-01-28  
 E-mail:	itrjnextysq@gmail.com  
-Skype:	Serg SVR   
+<center>Skype:	Serg SVR   </center>
 
 
 ## Education
