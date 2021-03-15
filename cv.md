@@ -34,10 +34,10 @@ OS Windows, Linux; HTML&CSS, PHP, JS, MySQL, Git
 
 ### PERSONAL SKILLS:
 ---------
-High level of responsibility, attentiveness, self-discipline, logical thinking, active, good communication skills, teamwork.
+High level of responsibility, attentiveness, self-discipline, logical thinking, active, good communication skills, teamwork
 
 
-## LANGUAGES: English – Intermediate 
+## LANGUAGES 
 ---------
-
+English – Intermediate 
 
