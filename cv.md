@@ -2,13 +2,11 @@
 layout: cv
 title: Serhii Rybalchenko's CV
 ---
-<p style="text-align: center;">
-# Serhii Rybalchenko </p>
-<p style="text-align: center;">
-###Junior Frontend Developer  
-</p>
 
-| Location: | Kharkiv, Ukraine | 	
+# Serhii Rybalchenko 
+###Junior Frontend Developer  
+
+Location: Kharkiv, Ukraine   
 Tel. mobile:	+38-066-831-01-28  
 Viber:	 +38-066-831-01-28  
 Telegram:  +38-066-831-01-28  
@@ -31,7 +29,7 @@ Skype:	Serg SVR
 
 ## TECHICAL SKILLS:
 ---------
-OS Windows, Linux; HTML&CSS, PHP, JS, MySQL
+OS Windows, Linux; HTML&CSS, PHP, JS, MySQL, Git
 
 
 ### PERSONAL SKILLS:
