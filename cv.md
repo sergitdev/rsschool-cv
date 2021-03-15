@@ -2,7 +2,7 @@
 layout: cv
 title: Serhii Rybalchenko's CV
 ---
-
+<p style="text-align: center;">
 # Serhii Rybalchenko
 ###Junior Frontend Developer  
 
@@ -12,7 +12,7 @@ Tel. mobile:	+38-066-831-01-28
 Viber:	 +38-066-831-01-28  
 Telegram:  +38-066-831-01-28  
 E-mail:	itrjnextysq@gmail.com  
-<p style="text-align: center;">Skype:	Serg SVR   </p>
+Skype:	Serg SVR  
 
 
 ## Education
@@ -40,4 +40,4 @@ High level of responsibility, attentiveness, self-discipline, logical thinking, 
 ## LANGUAGES: English – Intermediate 
 ---------
 
-
+ </p>
