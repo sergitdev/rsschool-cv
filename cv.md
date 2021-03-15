@@ -3,9 +3,10 @@ layout: cv
 title: Serhii Rybalchenko's CV
 ---
 <p style="text-align: center;">
-# Serhii Rybalchenko
+# Serhii Rybalchenko </p>
+<p style="text-align: center;">
 ###Junior Frontend Developer  
-
+</p>
 
 | Location: | Kharkiv, Ukraine | 	
 Tel. mobile:	+38-066-831-01-28  
@@ -40,4 +41,4 @@ High level of responsibility, attentiveness, self-discipline, logical thinking, 
 ## LANGUAGES: English – Intermediate 
 ---------
 
- </p>
+
