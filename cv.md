@@ -4,8 +4,8 @@ title: Serhii Rybalchenko's CV
 ---
 
 # Serhii Rybalchenko
-Junior Frontend Developer  
----------
+###Junior Frontend Developer  
+
 
 Location:	Kharkiv, Ukraine  
 Tel. mobile:	+38-066-831-01-28  
@@ -22,12 +22,10 @@ Skype:	Serg SVR
 
 ## WORK EXPERIENCE:
 ---------
-March 2018 - November 2019:	AgroGeneration  
-Technical support specialist
-November 2014 – March 2017:	
-The main office of the pharmacy network, System Administrator
-September 2013 – June 2014:	Internet center, System Administrator
-August 2010 – October 2011:	Main office of the militarized mine-rescue service of the coal industry of Ukraine, System Administrator	
+* March 2018 - November 2019:	AgroGeneration, Technical support specialist  
+* November 2014 – March 2017:	The main office of the pharmacy network, System Administrator  
+* September 2013 – June 2014:	Internet center, System Administrator  
+* August 2010 – October 2011:	Main office of the militarized mine-rescue service of the coal industry of Ukraine, System Administrator	
 
 
 ## TECHICAL SKILLS:
